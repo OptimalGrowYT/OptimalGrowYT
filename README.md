@@ -1,11 +1,11 @@
 <p align="center">
 <a href="https://github.com/optimalgrowyt">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines= Dr+Abdul+Matin+Karimi;Optimal Grow YT ; FullStack Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Dr Abdul+Matin+Karimi;Optimal Grow YT ; FullStack Developer" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://github.com/optimalgrowyt">
-    <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
+    <img src="https://img.shields.io/badge/optimalgrowyt-red?style=flat-square">
 </a> 
 <a href="https://t.me/optimalgrowyt">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
