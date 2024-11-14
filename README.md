@@ -4,17 +4,17 @@
 </a>
 <br/>
 
-<a href="https://github.com/optimalgrowyt">
-    <img src="https://img.shields.io/badge/optimalgrowyt-red?style=flat-square">
+<a href="https://www.youtube.com/@optimalgrowYT/videos">
+    <img src="https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube">
 </a> 
 <a href="https://t.me/optimalgrowyt">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="https://www.linkedin.com/in/optimalgrowyt">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+<a href="https://www.facebook.com/dr.abdulmatinkarimi/">
+    <img src="https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook">
 </a>
-<a href="mailto:abdulmatinkarimi.dr@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+<a href="https://www.instagram.com/doctor_amk">
+    <img src="https://img.shields.io/badge/-instagram-gray?style=flat-square&logo=instagram">
 </a>
 <br/> 
 
